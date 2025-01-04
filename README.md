@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 </p>
  <div align=center>
-        <a href="https://www.linkedin.com/in/youssef-fathy-195ba61a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc3Xy57fNS7mMRnH7Jc9pkg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.linkedin.com/in/youssef-fathy-195ba61a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc3Xy57fNS7mMRnH7Jc9pkg%3D%3D" target="_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </div>
 
 <p align="left">
