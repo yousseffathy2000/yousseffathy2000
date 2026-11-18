@@ -1,28 +1,26 @@
 <h1 align="center">Hi 👋, I'm Youssef Fathy</h1>
+<h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
 
- <!-- <p align="left" style="text-align:center"><center><img src="https://f.top4top.io/p_2445w4w8i1.png" alt="centered image" height="300" width="300"> </center></p> -->
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=2FF729&lines=Hi+%2C+I'm+Youssef+Fathy.;I'm+a+Computer+Engineer.;I'm+a+Frontend+Developer+React+JS." alt="Headline" />
-    </div>
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-</p>
- <div align=center>
-        <a href="https://www.linkedin.com/in/youssef-fathy-195ba61a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc3Xy57fNS7mMRnH7Jc9pkg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </div>
+<p align="center">Computer & Control Systems Engineer who turns raw data into clear insights.<br/>I clean data, build data models and DAX measures, and create interactive dashboards that answer real business questions.</p>
 
-<p align="left">
+### 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</p>
+### 📊 Projects
+
+| Project | What it shows | Link |
+|---|---|---|
+| **UEFA European Championship Dashboard** (Power BI) | Every Euro final 1960–2024: titles and hosts by country, a full finals table and a host-nations map | [View on LinkedIn](https://lnkd.in/p/erQRg-Xa) |
+| **Supermarket Sales Dashboard** (Power BI) | 1,000 transactions across 3 branches: sales, gross income, margin, product lines, payment methods and ratings | [View on LinkedIn](https://lnkd.in/p/eQs8Zjvz) |
+
+### 📫 Contact
+
+<a href="https://www.linkedin.com/in/youssef-fathy-195ba61a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:youssef.fathy.alsaad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
