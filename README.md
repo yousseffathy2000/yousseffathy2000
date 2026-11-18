@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Youssef Fathy</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
+<p align="center">
+  <a href="https://github.com/yousseffathy2000/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Fathy;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Excel;Turning+raw+data+into+clear+insights" alt="Hi 👋, I'm Youssef Fathy"/></a>
+</p>
 
 <p align="center">Computer & Control Systems Engineer who turns raw data into clear insights.<br/>I clean data, build data models and DAX measures, and create interactive dashboards that answer real business questions.</p>
 
@@ -24,6 +25,11 @@ Every Euro final from 1960 to 2024: titles and hosts by country, a full finals t
 1,000 transactions across 3 branches: sales, gross income, margin, product lines, payment methods and ratings, with a gender slicer.
 
 <a href="https://github.com/yousseffathy2000/Supermarket-Sales-Dashboard"><img src="https://github.com/yousseffathy2000/Supermarket-Sales-Dashboard/blob/main/dashboard_all.png?raw=true" alt="Supermarket Sales Dashboard" width="100%"/></a>
+
+#### 🏬 Mega Stores Sales Analysis (Excel)
+9,426 orders from 2010 to 2013: data cleaning, pivot tables, a dashboard with slicers, and insights with business recommendations.
+
+<a href="https://github.com/yousseffathy2000/Mega-Stores-Sales-Analysis-Excel"><img src="https://github.com/yousseffathy2000/Mega-Stores-Sales-Analysis-Excel/blob/main/dashboard.png?raw=true" alt="Mega Stores Sales Dashboard" width="100%"/></a>
 
 ### 📫 Contact
 
