@@ -15,10 +15,15 @@
 
 ### 📊 Projects
 
-| Project | What it shows | Link |
-|---|---|---|
-| **UEFA European Championship Dashboard** (Power BI) | Every Euro final 1960–2024: titles and hosts by country, a full finals table and a host-nations map | [View on LinkedIn](https://lnkd.in/p/erQRg-Xa) |
-| **Supermarket Sales Dashboard** (Power BI) | 1,000 transactions across 3 branches: sales, gross income, margin, product lines, payment methods and ratings | [View on LinkedIn](https://lnkd.in/p/eQs8Zjvz) |
+#### 🏆 UEFA European Championship Dashboard (Power BI)
+Every Euro final from 1960 to 2024: titles and hosts by country, a full finals table and a host-nations map.
+
+<a href="https://github.com/yousseffathy2000/UEFA-European-Championship-Dashboard"><img src="https://github.com/yousseffathy2000/UEFA-European-Championship-Dashboard/blob/main/dashboard.png?raw=true" alt="UEFA European Championship Dashboard" width="100%"/></a>
+
+#### 🛒 Supermarket Sales Dashboard (Power BI)
+1,000 transactions across 3 branches: sales, gross income, margin, product lines, payment methods and ratings, with a gender slicer.
+
+<a href="https://github.com/yousseffathy2000/Supermarket-Sales-Dashboard"><img src="https://github.com/yousseffathy2000/Supermarket-Sales-Dashboard/blob/main/dashboard_all.png?raw=true" alt="Supermarket Sales Dashboard" width="100%"/></a>
 
 ### 📫 Contact
 
